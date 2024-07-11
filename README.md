@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ball.mama2000@gmail.com
 - 📫 How to reach me ... my resume 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: html css js python php 
+- ⚡ Fun fact:
 
 <!---
 ibraball/ibraball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
